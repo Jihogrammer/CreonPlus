@@ -1,8 +1,16 @@
 # python
 __pycache__/
 
+# pypi package artifacts
+creon_plus.egg-info/
+build/
+dist/
+
 # mocked modules
 win32com/
 
 # IDE
 .vscode/
+
+# default
+.DS_Store
