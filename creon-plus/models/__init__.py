@@ -1,2 +1,2 @@
-from .creon import Module as Module
-from .creon import EventHandler as EventHandler
+from models.creon import Module as Module
+from models.creon import EventHandler as EventHandler
