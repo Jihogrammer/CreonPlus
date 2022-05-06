@@ -1,6 +1,9 @@
 # python
 __pycache__/
 
+# python virtual environments
+env/
+
 # pypi package artifacts
 creon_plus.egg-info/
 build/
@@ -11,6 +14,7 @@ win32com/
 
 # IDE
 .vscode/
+.editorconfig
 
 # default
 .DS_Store

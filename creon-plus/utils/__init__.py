@@ -1,2 +1,1 @@
-from .win32client import dispatch as dispatch
-from .win32client import bind as bind
+import utils.creon_api as CreonAPI
