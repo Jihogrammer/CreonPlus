@@ -1,1 +1,2 @@
 from examples.live_price_app import example as example_live_price_subscribe
+from examples.creon_connect import example as example_connect_creon
