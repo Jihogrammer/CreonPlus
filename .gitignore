@@ -18,3 +18,4 @@ win32com/
 
 # default
 .DS_Store
+.env

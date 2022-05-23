@@ -1,8 +1,10 @@
 from setuptools import setup, find_packages
 
+# fmt: off
+# flake8: noqa
 setup(
-    name                          = 'creon-plus',
-    version                       = '0.0.2',
+    name                          = 'creon',
+    version                       = '0.0.3',
     description                   = '대신증권 Creon Plus API',
     long_description              = open('README.md').read(),
     long_description_content_type = 'text/markdown',
